@@ -1,3 +1,5 @@
+# 8-3-2019 Add documentations to better understand the code
+
 import copy
 import glob
 import os
